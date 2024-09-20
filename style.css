@@ -1,0 +1,22 @@
+h1 {
+    background-color: red;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+}
+
+#SaltandPepperBeef {
+    color: forestgreen;
+}
+
+#Burger {
+    color:brown;
+}
+
+#Spaghetti {
+    color: darkorange;
+}
+
+.recipes {
+    background-color: lightcyan; 
+}
